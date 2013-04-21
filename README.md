@@ -15,3 +15,6 @@ Our interface aims to control many-to-many, one-to-many and many-to-one (users a
 We want the interface to be sleek and organized, having the behavior commands (such as the "IF...THEN" statements of the challenge) well set in a configuration panel, leaving the GUI to a "what the rover sees" view wich can be implemented also as stereoscopic 3D given the opportunity to add a couple of cameras to it.
 
 We are open to collaborations from other teams around the world facing the same challenge.
+
+
+
