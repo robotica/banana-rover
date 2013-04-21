@@ -17,4 +17,3 @@ We want the interface to be sleek and organized, having the behavior commands (s
 We are open to collaborations from other teams around the world facing the same challenge.
 
 
-
