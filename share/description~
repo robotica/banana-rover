@@ -1,0 +1,12 @@
+ALL:
+Overview of interfaces available to users
+
+DRIVER:
+Interface used by rover driver: allows sending commands to rover
+
+JAMMER:
+Interface used by failure mnager: allows user to simulate failures of onboard systems
+
+ENVIRONMENT:
+Interface used by environment manager: allows changing environmental conditions (temperature, terrain slope, dust over solar panels, obstacles, wheel stuck in sand)
+
